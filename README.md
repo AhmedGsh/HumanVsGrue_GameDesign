@@ -9,6 +9,8 @@ The solid-line arrows in the diagram indicate inheritance relationships. The dot
 Private variables/methods start with a dash (-), protected variables/methods start with a hash (#), and public variables/methods start with a plus (+). Pure virtual methods are bold and italicized.
 
 Run main.cpp to play
+
+
 [![](https://github.com/AhmedGsh/HumanVsGrue_GameDesign/blob/master/grues-uml.png)](#features)
 
 
