@@ -1,9 +1,4 @@
 /*
-Name: Ahmed Almostafa Gashgash
-Date: 4/20/2016
-CSE 2122
-HW 8
-Contact: gashgash.1@osu.edu
 
 A virtual game, where a player navugates in a maze.
 */
