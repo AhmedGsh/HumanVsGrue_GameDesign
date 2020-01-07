@@ -1,6 +1,5 @@
 /*
-
-A virtual game, where a player navugates in a maze.
+A virtual game, where a player navigates in a maze.
 */
 
 
