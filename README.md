@@ -1,5 +1,8 @@
 # HumanVsGrue_GameDesign
 
+![Alt text](/relative/path/to/grues-uml.png?raw=true )
+
+
 In my game, there are one or more human players (the Player class), and some grues (the Grue class; a grue is a scary monster that eats people, but is never present in lighted rooms, for what it’s worth). The Game class tells the grues and players to make their moves (the grues’ moves are random, the players’ moves come from asking the person at the keyboard to make a move).
 
 Rooms are connected to each other by arbitrary exits (e.g. “south,” “out the window”). Each room keeps track of the things inside it (using a set). Also, there are generic things (the Thing class) such as statues and forks and knives, lying around the maze. Since Players and Grues are Agents and Agents are Things, each room is keeping track of the things, players, and grues inside of it.
