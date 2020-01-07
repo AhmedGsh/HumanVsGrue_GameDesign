@@ -1,6 +1,6 @@
 # HumanVsGrue_GameDesign
 
-![Alt text](/relative/path/to/grues-uml.png?raw=true )
+![Alt text](/relative/HumanVsGrue_GameDesign/grues-uml.png?raw=true )
 
 
 In my game, there are one or more human players (the Player class), and some grues (the Grue class; a grue is a scary monster that eats people, but is never present in lighted rooms, for what it’s worth). The Game class tells the grues and players to make their moves (the grues’ moves are random, the players’ moves come from asking the person at the keyboard to make a move).
